@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **E-commerce Web app**
+- 🔭 I’m currently working on **E-commerce Web appplication**
 
-- 🌱 I’m currently learning **DSA in Java, ReactJS & NodeJS**
+- 🌱 I’m currently learning **Bootstrap, Tailwind, ReactJS, NodeJS & DSA**
 
 - 💬 Ask me about **react, Java**
 
