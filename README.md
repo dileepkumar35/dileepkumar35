@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Tailwind, ReactJS, NodeJS & DSA**
 
-- 💬 Ask me about **react, Java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **dileepmr35@gmail.com**
 
