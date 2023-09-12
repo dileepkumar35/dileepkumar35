@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-commerce Web appplication**
 
-- 🌱 I’m currently learning **Bootstrap, Tailwind, ReactJS, NodeJS & DSA**
+- 🌱 I’m currently learning **ReactJS, NodeJS**
 
 - 💬 Ask me about **Java**
 
