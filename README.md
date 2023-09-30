@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
-<h3 align="center">A passionate aspiring Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 - 🔭 Currently working on **E-commerce Web appplication**
 
