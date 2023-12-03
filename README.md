@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 <!-- <h3 align="center">A passionate Full-Stack Developer from India</h3> -->
 
-- 🔭 Currently working on **E-commerce Web App**
-
 - 🌱 Currently learning **DSA in Java**
 
 - 💬 Ask me about **Web Development, Java & MySQL**
