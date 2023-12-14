@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋</h1>
 <!-- <h3 align="center">A passionate Full-Stack Developer from India</h3> -->
 
-- 🌱 Currently learning **DSA in Java**
+- 🌱 Currently learning **DSA**
 
 - 💬 Ask me about **Web Development, Java & MySQL**
 
