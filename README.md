@@ -1,5 +1,7 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
 <h3 align="center">Passionate Web Developer | Embarking on Full-Stack Journey</h3>
+
+![](https://komarev.com/ghpvc/?username=dileepkumarmr&color=blue)
 
 ## 💫 About Me:
 - 🌱 Currently learning **Backend Development**
@@ -8,9 +10,9 @@
 
 - 📫 Reach out to me at **dileepmr35@gmail.com**
 - 
-<p align="left">
-![](https://komarev.com/ghpvc/?username=dileepkumarmr&color=blue)
-</p>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
