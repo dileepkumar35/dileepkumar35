@@ -1,3 +1,4 @@
+<p align="center">
 <h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
 <h3 align="center">Passionate Web Developer | Embarking on Full-Stack Journey</h3>
 
@@ -49,4 +50,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepkumarmr&layout=compact)
 
-
+</p>
