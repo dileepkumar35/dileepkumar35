@@ -52,6 +52,37 @@
 
 ## 📊 GitHub Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dileepkumarmr&layout=compact)
+<table>
+        <thead>
+            <tr>
+                <th>
+                    <a href="#gh-dark-mode-only">
+                        <img src="https://github-readme-streak-stats.herokuapp.com?user=dileepkumarmr&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only"
+                            alt="GitHub Streak" width="400" height="150">
+                    </a>
+                </th>
+                <th>
+                    <a href="https://leetcode.com/stha1122#gh-dark-mode-only">
+                        <img src="https://leetcard.jacoblin.cool/dileepmr35?border=1&radius=20&theme=unicorn#gh-dark-mode-only"
+                            alt="Leetcode Stats" width="400" height="150">
+                    </a>
+                </th>
+            </tr>
+            <tr>
+                <th>
+                    <a>
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepkumarmr&show_icons=true&locale=en&layout=compact&theme=transparent"
+                            alt="stha1122" width="400" height="150">
+                    </a>
+                </th>
+                <th>
+                    <a>
+                        <img src="https://github-readme-stats.vercel.app/api?username=dileepkumarmr&show_icons=true&theme=transparent"
+                            width="400" height="150">
+                    </a>
+                </th>
+            </tr>
+        </thead>
+    </table>
 
 </p>
