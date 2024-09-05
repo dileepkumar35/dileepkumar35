@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm DILEEP KUMAR</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-![](https://komarev.com/ghpvc/?username=dileepkumarmr&color=blue)
+![](https://komarev.com/ghpvc/?username=dileepkumar35&color=blue)
 
 ## 💫 About Me:
 - 🌱 Currently learning **Backend Development**
@@ -37,7 +37,7 @@
             <tr>
                 <th>
                     <a href="#gh-dark-mode-only">
-                        <img src="https://github-readme-streak-stats.herokuapp.com?user=dileepkumarmr&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only"
+                        <img src="https://github-readme-streak-stats.herokuapp.com?user=dileepkumar35&border_radius=20&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D#gh-dark-mode-only"
                             alt="GitHub Streak" width="400" height="150">
                     </a>
                 </th>
@@ -51,13 +51,13 @@
             <tr>
                 <th>
                     <a>
-                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepkumarmr&show_icons=true&locale=en&layout=compact&theme=transparent"
+                        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dileepkumar35&show_icons=true&locale=en&layout=compact&theme=transparent"
                             alt="stha1122" width="400" height="150">
                     </a>
                 </th>
                 <th>
                     <a>
-                        <img src="https://github-readme-stats.vercel.app/api?username=dileepkumarmr&show_icons=true&theme=transparent"
+                        <img src="https://github-readme-stats.vercel.app/api?username=dileepkumar35&show_icons=true&theme=transparent"
                             width="400" height="150">
                     </a>
                 </th>
