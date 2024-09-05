@@ -1,5 +1,5 @@
-[![GitHub | Stats](https://stats.quine.sh/dileepkumarmr/github?theme=dark)](https://quine.sh)
-[![GitHub | Languages Over Time](https://stats.quine.sh/dileepkumarmr/languages-over-time?theme=light)](https://quine.sh)
+[![dileepkumarmr's GitHub | Stats](https://stats.quine.sh/dileepkumarmr/github?theme=dark)](https://quine.sh)
+[![dileepkumarmr's GitHub | Languages Over Time](https://stats.quine.sh/dileepkumarmr/languages-over-time?theme=light)](https://quine.sh)
 <p align="center">
 <h1 align="center">Hi 👋, I'm DILEEP KUMAR</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
