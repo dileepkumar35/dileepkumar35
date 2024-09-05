@@ -1,8 +1,8 @@
 [![GitHub | Stats](https://stats.quine.sh/dileepkumarmr/github?theme=dark)](https://quine.sh)
 [![GitHub | Languages Over Time](https://stats.quine.sh/dileepkumarmr/languages-over-time?theme=light)](https://quine.sh)
 <p align="center">
-<h1 align="center">Hi 👋, I'm Dileep Kumar</h1>
-<h3 align="center">Passionate Web Developer | Embarking on Full-Stack Journey</h3>
+<h1 align="center">Hi 👋, I'm DILEEP KUMAR</h1>
+<h3 align="center">A passionate Full stack developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=dileepkumarmr&color=blue)
 
