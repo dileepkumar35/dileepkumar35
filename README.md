@@ -1,14 +1,12 @@
 <p align="center">
 <h1 align="center">Hi 👋, I'm DILEEP KUMAR</h1>
-<h3 align="center">A passionate Full stack developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 ![](https://komarev.com/ghpvc/?username=dileepkumar35&color=blue)
 
 ## 💫 About Me:
 
-- 🌱 Currently learning **Backend Development**
-
-- 💬 Ask me about **Probem Solving and Web Development**
+- 💬 Ask me about **Probem Solving, Development, AI**
 
 - 📫 Reach out to me at **dileepmr35@gmail.com**
 
